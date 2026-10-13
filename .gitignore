@@ -1,0 +1,12 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Root Temporary Screenshots
+screenshot_*.png
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
